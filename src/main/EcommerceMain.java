@@ -7,6 +7,7 @@ public class EcommerceMain {
 
 		System.out.println("Hello Git Test");
 		System.out.println("Changed");
+		System.out.println("Just Modified");
 	}
 
 }
